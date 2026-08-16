@@ -29,4 +29,4 @@ Footprinting is the first step in ethical hacking. It helps security professiona
 •	Safe reconnaissance practices without touching live servers.
 🔧 Tools & Links
 •	HTTrack Website Copier
-👤 Author: Michael Tetteh | Batch B082 🔗 LinkedIn post link in comments
+👤 Author: Michael Tetteh | Batch B082 🔗 LinkedIn post link https://www.linkedin.com/feed/update/urn:li:activity:7494746925985099776/
